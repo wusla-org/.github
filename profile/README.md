@@ -51,9 +51,9 @@ To empower businesses and developers with intelligent, efficient, and innovative
 
 ```
 Frontend:    React | Next.js | React Native | TypeScript | Tailwind CSS
-Backend:     Node.js | Express | Python | Firebase | Supabase
+Backend:     Node.js | Express | Python | Django | Firebase | Supabase
 Tools:       GitHub | Vercel | Figma | Docker | Git
-Languages:   JavaScript | TypeScript | Python | Dart | C++
+Languages:   JavaScript | TypeScript | Python | Dart  Flutter| C++
 ```
 
 ---
@@ -109,13 +109,3 @@ Interested? [Contact us](mailto:wuslateam@gmail.com) or explore our repositories
 > **Code with Purpose** - Every line of code we write serves to solve real problems and create meaningful impact.
 
 ---
-
-<div align="center">
-
-**Made with ❤️ by WUSLA Team**
-
-`Innovative • Reliable • Scalable`
-
-© 2025 WUSLA. All rights reserved.
-
-</div>
